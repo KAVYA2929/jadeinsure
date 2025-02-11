@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Jade Insure</string>
+    <!-- Auth -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="app_logo">App Logo</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_login_failed">Login failed. Please try again.</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="error_passwords_dont_match">Passwords do not match</string>
+    <string name="signup_success">Account created successfully</string>
+    <string name="error_signup_failed">Failed to create account. Please try again.</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="create_one">Create one</string>
+    <string name="service_icon">Service Icon</string>
+    <string name="error_loading_services">Failed to load services</string>
+    <string name="service_details">Service Details</string>
+    <string name="apply_now">Apply Now</string>
+    <string name="error_loading_service_details">Failed to load service details</string>
+    <string name="submit_claim">Submit Claim</string> //new self change
+    <string name="select_policy">Select Policy</string>
+    <string name="claim_description">Claim Description</string>
+    <string name="claim_amount">Claim Amount</string>
+    <string name="incident_date">Incident Date</string>
+    <string name="submit">Submit</string>
+    <string name="claims">Claims</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="my_policies">My Policies</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="services">Services</string>
+    <string name="home">Home</string>
+    <string name="error_loading_policies">Failed to load policies</string>
+    <string name="error_select_policy">Please select a policy</string>
+    <string name="error_select_date">Please select a date</string>
+    <string name="error_invalid_amount">Invalid amount. Please enter a valid value.</string>
+    <string name="claim_submitted_successfully">Claim submitted successfully!</string>
+    <string name="error_submitting_claim">Error submitting claim. Please try again.</string>
+    <string name="add_new_claim">Add New Claim</string>
+    <string name="error_email_exists">An account with this email already exists</string>
+    <string name="error_network">Network error. Please check your connection and try again</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_no_internet">No internet connection. Please check your connection and try again.</string>
+    <string name="error_timeout">Request timed out. Please try again.</string>
+    <string name="error_password_too_short">Password must be at least 6 characters long</string>
+
+</resources>
